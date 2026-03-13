@@ -154,4 +154,5 @@ Through this project I learned:
 ## Author
 
 **Swarnima Srivastava**
-This project was completed as part of a Machine Learning assignment on Boosting Techniques.
+
+* This project was completed as part of a Machine Learning assignment on Boosting Techniques.
